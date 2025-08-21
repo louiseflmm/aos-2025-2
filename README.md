@@ -1,2 +1,2 @@
 # aos-2025-2
-repositório para disciplina de aplicações orientadas a serviço
+Aplicações Orientada a Serviços (UNICAP 2025.2)
